@@ -1,6 +1,7 @@
 ![Node.js CI](https://github.com/jgilsaa/node-system-fonts/workflows/Node.js%20CI/badge.svg?branch=master)
 
 # node-system-fonts-electron
+- Remove gyp symlink to python3 (caused Apple codesign to fail)
 - Removed linux support
 
 # node-system-fonts
